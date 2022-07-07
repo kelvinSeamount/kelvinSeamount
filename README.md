@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kelvin</h1>
+<h1 align="center">Hi 👋, I'm Emeka</h1>
 <h3 align="center">A passionate frontend developer from Bremen</h3>
 
 - ⚡ Fun fact **I think I'm funny enough to have me in your team!**
